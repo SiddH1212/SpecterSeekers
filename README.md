@@ -5,7 +5,7 @@ The environment is pitch black, except for the area illuminated by your flashlig
 
 Use your right-hand gun to shoot ghosts.
 
-Ghosts use Unity's NavMesh AI to follow the player in real-time.
+Ghosts use Unity's NavMesh AI to follow the player as they move around in real-time, as well as avoid furniture and obstacles in the player's environment.
 
 Starting with 5 hearts, you lose a heart when a ghost touches you, and die when all 5 are lost.
 
