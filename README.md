@@ -1,3 +1,5 @@
+Demo Video: https://youtu.be/AmN7y2QevJE
+
 SpecterSeekers is a Mixed Reality Game made using unity for the Quest3. Armed with a flashlight in your left hand and a gun in your right, you must survive in complete darkness while ghosts relentlessly chase you. Shine your torch to reveal them, shoot to eliminate them, and stay alive until the timer runs out!
 
 The environment is pitch black, except for the area illuminated by your flashlight.
@@ -24,3 +26,4 @@ Hearts: https://assetstore.unity.com/packages/tools/gui/simple-heart-health-syst
 Gun: https://sketchfab.com/3d-models/stylized-gun-2983dac401d741349ff35ff91a1786f0
 
 Ghost model was made in blender
+
