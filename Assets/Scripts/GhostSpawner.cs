@@ -12,7 +12,7 @@ public class GhostSpawner : MonoBehaviour
     public MRUKAnchor.SceneLabels spawnLabels;
     public float normalOffset;
     public int spawnTrials = 1000;
-    public Data killCountData; // ✅ Reference to the Scriptable Object
+    public Data killCountData; 
 
     void Start()
     {
